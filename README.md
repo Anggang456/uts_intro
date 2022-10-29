@@ -30,7 +30,7 @@ $data = json_decode($konten, true);
           <?php foreach ($data['data'] as $row) {
             # code...
           ?>
-            <div class="col-3 mt-3">
+            <div class="col-4 mt-3">
                 <div class="card shadow" style="width: 18rem;">
                     <img src=" <?php  echo $row['image']['large'] ?> " class="card-img-top" alt="...">
                     <div class="card-body">
