@@ -1,4 +1,10 @@
 # uts_intro
+# KElOMPOK 4
+# 1. M. Toyyibal Ardani
+# 2. Rio Anugrah Putra
+# 3. Galuh Ayu Oktaviani
+# 4. Jeni Novitasari
+# 5. Imam Wardana
 <?php 
 $sumber = 'https://berita-indo-api.vercel.app/v1/cnn-news';
 $konten = file_get_contents($sumber);
