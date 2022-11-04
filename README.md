@@ -5,6 +5,7 @@
 # 3. Galuh Ayu Oktaviani
 # 4. Jeni Novitasari
 # 5. Imam Wardana
+# 6. Nudia Isma Anisa
 <?php 
 $sumber = 'https://berita-indo-api.vercel.app/v1/cnn-news';
 $konten = file_get_contents($sumber);
