@@ -1,4 +1,3 @@
-# uts_intro
 # KElOMPOK 4
 # 1. M. Toyyibal Ardani
 # 2. Rio Anugrah Putra
